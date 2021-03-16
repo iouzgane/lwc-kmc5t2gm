@@ -1,0 +1,39 @@
+body{
+font-family: "AvenirNext LT Pro Regular", sans-serif;
+font-size: 16px;
+	
+}
+
+.bloc_1{
+	max-width: 1440px;
+	height: 1038px;
+	background-image: url("https://s3.eu-central-1.amazonaws.com/s3-lmg-epr-app0359-static.lamutuellegenerale.fr/Union_Independants/Images/visu_1.png");
+	background-repeat: no-repeat;
+	background-size: contain;
+	
+}
+.bloc_1 table{
+	padding-top: 40px;
+	width: 86%;
+	float: right;
+}
+.titre_1{
+font-family: Avenir Next LT Pro, sans-serif, bold;
+font-size: 50px;
+color: #412761;
+font-weight: bold;
+
+}
+.bloc_1 p{
+	color: #000000;
+	font-size: 24px;
+	font-weight: bold;
+}
+.bloc_1 button{
+width: 338px;
+height: 48px;
+background: #B10967 0% 0% no-repeat padding-box;
+border-radius: 25px;
+color: white;
+border: none;
+}
